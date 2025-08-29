@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carta de Presentación</string>
+
+    <!-- Datos personales -->
+    <string name="full_name">Francesca Rezza</string>
+    <string name="title">Android Developer Extraordinaire</string>
+
+    <!-- Contacto -->
+    <string name="phone">927 088 360</string>
+    <string name="social">@AndroidDev</string>
+    <string name="email">franvelvet6@gmail.com</string>
+</resources>
